@@ -1,6 +1,6 @@
 {
   "name": "@whatasoda/types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "@whatasoda's custom type declarations",
   "main": "all/index.d.ts",
   "scripts": {
