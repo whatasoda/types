@@ -2,7 +2,7 @@
   "name": "@whatasoda/types",
   "version": "1.0.0",
   "description": "@whatasoda's custom type declarations",
-  "main": "index.js",
+  "main": "all/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
