@@ -1,0 +1,30 @@
+{
+  "name": "@whatasoda/types",
+  "version": "1.0.0",
+  "description": "@whatasoda's custom type declarations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whatasoda/types.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "whatasoda <git@whatasoda.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whatasoda/types/issues"
+  },
+  "homepage": "https://github.com/whatasoda/types#readme",
+  "dependencies": {
+    "typed-tuple-type": "^1.0.1"
+  },
+  "devDependencies": {
+    "@whatasoda/eslint-config": "^1.3.2",
+    "@whatasoda/tsconfig": "^1.0.3",
+    "typescript": "^3.7.2"
+  }
+}
